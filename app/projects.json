@@ -1,0 +1,99 @@
+[ 
+  {
+  "fileId":0,
+  "title": "Movie Recommendation Engine",
+  "description": "Machine Learning Recommendation Engine.",
+  "backgroundImage": "/assets/nitmovie.png",
+  "typer":"Link",
+
+  "languages": [
+    "/assets/icons/pandas.png",
+    "/assets/icons/sklearn.png",
+    "/assets/icons/python.webp"
+  ],
+  "githubLink": "https://github.com/niti320/nitMovie",
+  "actualLink": "https://nitmovie.streamlit.app/"
+},
+    {
+      "fileId":1,
+      "title": "Movie Finder & Suggestion App",
+      "description": "Search your favorite movies, Store them, and get suggestions what to watch next.",
+      "backgroundImage": "/assets/movie-lib.png",
+      "typer":"Link",
+
+      "languages": [
+        "/assets/icons/react.webp",
+        "/assets/icons/pandas.png",
+        "/assets/icons/sklearn.png",
+        "/assets/icons/python.webp"
+      ],
+      "githubLink": "https://github.com/niti320/movie-library-suggestions",
+      "actualLink": "https://movie-library-suggestions.vercel.app/"
+    },
+    {
+      "fileId":2,
+      "title": "Images to PDF Converted App",
+      "description": "Converting Images to PDF.",
+      "backgroundImage": "/assets/nitConvert.png",
+      "typer":"Link",
+
+      "languages": [
+        "faReact",
+        "faCss3Alt",
+        "faJsSquare"
+      ],
+      "githubLink": "https://github.com/niti320/nitConvert",
+      "actualLink": "https://nit-convert.vercel.app/"
+    },
+    {
+      "fileId":3,
+      "title": "Task Manager Android App",
+      "description": "Set, Create, Time, Delete, Prioritize Tasks, .",
+      "backgroundImage": "/assets/task2.jpeg",
+      "typer":"Download",
+      "download":"JDv2.apk",
+
+      "languages": [
+        "faReact",
+        "faCss3Alt",
+        "faJsSquare"
+      ],
+      "actualLink": "/JDv2.apk",
+      "githubLink": "https://github.com/niti320/job.donne"
+
+  
+    },
+    {
+      "fileId":4,
+      "title": "Flip Card React Game",
+      "description": "Flip and Match All cards to win.",
+      "backgroundImage": "/assets/gam2.png",
+      "typer":"Link",
+
+      "languages": [
+        "faReact",
+        "faCss3Alt",
+        "faJsSquare"
+      ],
+      "actualLink": "https://niti320.github.io/nit.cards",
+      "githubLink": "https://github.com/niti320/nit.cards"
+
+    },
+    {
+      "fileId":5,
+      "title": "Gaming Wesbite Home Page",
+      "description": "Simple Home Page made from scratch in HTML.",
+      "backgroundImage": "/assets/gam.png",
+      "typer":"Link",
+
+      "languages": [
+        "faHtml5",
+        "faCss3Alt",
+        "faJsSquare"
+      ],
+      "actualLink": "https://niti320.github.io/HomePage",
+      "githubLink": "https://github.com/niti320/HomePage"
+
+    }
+  ]
+  
