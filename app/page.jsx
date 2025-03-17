@@ -37,7 +37,7 @@ function App() {
       easing: "ease-in-out",
       once: false,
     });
-  }, []); // ✅ Run only on mount
+  }, []); 
 
   const handleScroll = () => {
     if (typeof window !== "undefined" && targetSectionRef.current) {
