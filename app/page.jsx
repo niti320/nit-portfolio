@@ -25,7 +25,6 @@ export default function Home() {
             className="Homepage"
             style={{
                 padding: "10px",
-                minHeight: "800px",
                 backgroundSize: "cover",
                 backgroundPosition: "bottom",
                 backgroundRepeat: "no-repeat"
