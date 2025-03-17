@@ -1,4 +1,5 @@
 import { Geist, Geist_Mono } from "next/font/google";
+import Header from "@/components/header";
 import "../styles/app.css";
 
 const geistSans = Geist({
@@ -30,7 +31,16 @@ export default function RootLayout({ children }) {
       <body
         className={`${geistSans.variable} ${geistMono.variable} ${pacifico.variable} ${caveat.variable} ${poiretOne.variable} ${manrope.variable} ${poppins.variable} antialiased`}
       >
-        {children}
+
+        <div className="App custom-cursor">
+          <Header></Header>
+          <div className="InnerBox">
+            <main className="mainBody">
+              {children}
+            </main>
+          </div>
+         
+        </div>
         <link rel="icon" href="/favicon.ico" />
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aos@2.3.1/dist/aos.css" />
         <script async src="https://cdn.jsdelivr.net/npm/aos@2.3.1/dist/aos.js"></script>
